@@ -1,11 +1,6 @@
-## My Project
+## Amazon DynamoDB Sample Restaurant app
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+Sample restaurant app with utility scripts used in the [High performance and scale with Amazon DynamoDB](https://aws.amazon.com/getting-started/hands-on/purpose-built-databases/dynamodb/) tutorial.
 
 ## Security
 
@@ -14,4 +9,3 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 ## License
 
 This library is licensed under the MIT-0 License. See the LICENSE file.
-
